@@ -1,4 +1,12 @@
 # sbgc-api-examples
+how to run:  
+$ cd LinuxSerialControl  
+$ mkdir build  
+$ cd build  
+$ cmake ..  
+$ make  
+$ sudo ./LinuxSerialControl  
+
 SimpleBGC Serial API examples and libraries
 
 This folders contains SBGC library and example sketches for Arduino, 
